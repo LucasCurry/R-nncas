@@ -12,10 +12,9 @@ If you are reading this, I am already dead. *Sad emoji*
 Mark Twain died.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 But he died a remembered man, and as long as we live in other peoples memories, are we truly ever dead?
 
-=======
->>>>>>> 1b24d23 (Adderade spoliers om Mark Twains liv)
 Skshhh The reports of my death are greatly exaggerated.
 ## Usage
 
