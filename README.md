@@ -11,6 +11,8 @@ If you are reading this, I am already dead. *Sad emoji*
 
 Mark Twain died.
 
+But he died a remembered man, and as long as we live in other peoples memories, are we truly ever dead?
+
 Skshhh The reports of my death are greatly exaggerated.
 ## Usage
 
