@@ -9,7 +9,9 @@ This is a small Python program that prints Pascal's triangle.
 If you are reading this, I am already dead. *Sad emoji*
 
 
-Skshhh The reports of my death are greatly exaggerated. 
+Mark Twain died.
+
+Skshhh The reports of my death are greatly exaggerated.
 ## Usage
 
 `python pascal.py [<number of rows>]`
